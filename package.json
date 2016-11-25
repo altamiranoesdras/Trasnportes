@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "bootstrap-sass": "^3.0.0"
+  },
+  "name": "proyecto-ddb-umg",
+  "description": "This is a fresh new laravel package with all [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) installed.",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfyOmLabs/adminlte-generator.git"
+  },
+  "author": "Esdras Altamirano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InfyOmLabs/adminlte-generator/issues"
+  },
+  "homepage": "https://github.com/InfyOmLabs/adminlte-generator#readme"
+}
