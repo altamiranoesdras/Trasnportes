@@ -1,2 +1,2 @@
-# proyectoDdbUmg
-Proyecto final curso de diseño de base de datos universidad mariano galvez
+# Proyecto final Diseño de Base de Datos, 8vo. semestre ingeniería sistemas UMG
+    Control de asignacion de vehiculos, comisiones a empleados y diferents sucursales
